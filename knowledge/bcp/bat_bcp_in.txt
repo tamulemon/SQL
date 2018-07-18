@@ -1,0 +1,2 @@
+@echo off
+bcp combined_Phase2_T2_Device_Type IN C:\git\DM-FCA\test_bcp_out.csv -c -q -t, -T -S mchen-102615 -d Meng_test
